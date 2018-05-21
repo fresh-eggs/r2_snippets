@@ -1,0 +1,7 @@
+r2 -d <binary name>   ; start in debug mode
+aa                    ; quick analyse binary (a? for more)
+V                     ; switch to visual mode
+p                     ; cycle into the debug view
+p
+_                     ; underscore
+                      ; type name of function/symbol to seek
